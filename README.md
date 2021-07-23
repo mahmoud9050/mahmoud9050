@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mahmoud ahmed
 - 👀 I’m interested in python and django 
 - 🌱 I’m currently learning html and css 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with other content creators
 - 📫 How to reach me _my_ phone number :01015410844
 
 <!---
