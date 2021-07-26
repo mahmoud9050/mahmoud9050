@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and django 
 - 🌱 I’m currently learning html and css 
 - 💞️ I’m looking to collaborate with other content creators
-- 📫 How to reach me _my_ phone number :01015410844
+- 📫 How to reach >>> _my_ phone number :01015410844
 
 <!---
 mahmoud9050/mahmoud9050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
